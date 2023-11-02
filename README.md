@@ -2,7 +2,7 @@
 
 Projeto realizado por meio da aula do desenvolvedor Mateus Silva. O link para seu canal no youtube é https://www.youtube.com/@imateussilva
 
-## Desenvolvimento
+## Sobre o Projeto
 
 Foram disponibilizados os arquivos HTML e CSS do projeto, para manter o foco apenas no código JavaScript, que foi desenvolvido por mim após absorver o conteúdo da aula.
 
